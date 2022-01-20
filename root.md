@@ -2,10 +2,13 @@
 id: 5tJF2T1OHErJeEAWJwT6B
 title: Root
 desc: ''
-updated: 1642704507440
+updated: 1642704874413
 created: 1642704507440
 ---
+
 # Welcome to Dendron
+
+blah
 
 This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
 
@@ -13,8 +16,8 @@ This is the root of your dendron vault. If you decide to publish your entire vau
 
 This section contains useful links to related resources.
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+-   [Getting Started Guide](https://link.dendron.so/6b25)
+-   [Discord](https://link.dendron.so/6b23)
+-   [Home Page](https://wiki.dendron.so/)
+-   [Github](https://link.dendron.so/6b24)
+-   [Developer Docs](https://docs.dendron.so/)
